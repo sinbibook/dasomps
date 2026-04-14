@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-04-14T07:22:39.466Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-04-14T08:19:12.738Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "2004ce5b-8e68-429d-8063-269d012eb69e",
     "homepageId": "ef753c17-ab90-40a8-bf72-df7280145c42"
@@ -73,15 +73,36 @@
         "description": "프라이빗한 바베큐를 즐겨보세요 ! ",
         "usageGuide": "- 이용 장소: 개별 테라스\n- 숯+그릴 : 2인 기준 20,000원(1인 추가 5,000원/현장결제)\n- 준비시간 : 입실 후 ~ 20:00\n- 운영시간 : 입실 후  ~23:00\n※ 숯/그릴 개인지참 불가",
         "displayOrder": 125,
-        "images": []
-      },
-      {
-        "id": "37ae7ad4-2c4c-4281-b7d4-a586259245b8",
-        "name": "스파",
-        "description": "프라이빗한 스파를 즐겨보세요 ! ",
-        "usageGuide": "- 이용객실 : 라온제나, 그린나래\n- 이용시간 : 24:00까지\n※ 입욕제 및 꽃 사용금지",
-        "displayOrder": 126,
-        "images": []
+        "images": [
+          {
+            "id": "ea4a96a7-2235-46a3-bcaf-1259d6a28cd8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e56e9769-9acd-49f4-88be-ef1570f7867d/main/1776151462343-fwg95aipp2j.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "98d8e27e-ebd6-4901-8b8c-ad5b15e4a3ab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e56e9769-9acd-49f4-88be-ef1570f7867d/main/1776151462343-tlgkmffxpqn.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ab34b249-f0e1-4289-ade6-70dd611ed5dd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e56e9769-9acd-49f4-88be-ef1570f7867d/main/1776151462343-vjtonvndlnb.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "13bb2ce9-8784-443e-a6b7-d425d6440c46",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e56e9769-9acd-49f4-88be-ef1570f7867d/main/1776151462343-npic8sgnor.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "8b0c2ddc-4cd4-4a90-b472-4c0847b5031b",
@@ -89,7 +110,29 @@
         "description": "시원한 계곡을 즐겨보세요 ! ",
         "usageGuide": "- 펜션 뒤 계곡이 위치\n- 구명조끼, 튜브 대여가능",
         "displayOrder": 127,
-        "images": []
+        "images": [
+          {
+            "id": "156453fc-f4fc-4551-a529-ce9819896215",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8b0c2ddc-4cd4-4a90-b472-4c0847b5031b/main/1776151595280-weulwf8xvgo.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6422181f-d79a-4565-b15c-ea44bafbf640",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8b0c2ddc-4cd4-4a90-b472-4c0847b5031b/main/1776151595280-llwb5mmo72k.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "a990cf00-352d-4033-ac3a-5bc86b401fc5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8b0c2ddc-4cd4-4a90-b472-4c0847b5031b/main/1776151595280-89ll2amudvs.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "6cab47aa-51ae-464d-8927-78dff0436255",
@@ -97,7 +140,22 @@
         "description": "즐거운 게임을 즐겨보세요 ! ",
         "usageGuide": "- 이용요금 : 무료\n- 이용객실 : 온새미로, 꽃가람, 라온제나, 그린나래",
         "displayOrder": 128,
-        "images": []
+        "images": [
+          {
+            "id": "e255509f-c201-4059-b281-27bdaf683281",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6cab47aa-51ae-464d-8927-78dff0436255/main/1776151596729-l3emb6op2e.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "135daa68-19ed-4f6b-973c-2ce0b3cbe072",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6cab47aa-51ae-464d-8927-78dff0436255/main/1776151596729-aco6y4a6tse.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "37644b1d-4eaa-4755-8e95-1f548bb22176",
@@ -105,7 +163,43 @@
         "description": "소중한 반려견과 함께하세요 ! ",
         "usageGuide": "- 최대마리수 : 1마리\n- 8kg 미만 : 20,000원(1박기준/현장결제)\n- 8kg 이상~10kg 미만 : 30,000원(1박기준/현장결제)\n※ 2마리 이상시 사전문의 필수\n※ 10kg 이상 동반 입실 불가",
         "displayOrder": 129,
-        "images": []
+        "images": [
+          {
+            "id": "87e5f573-7cf5-47f5-aa6f-d5bb01e48391",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/37644b1d-4eaa-4755-8e95-1f548bb22176/main/1776151597512-fwwqjifabm.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ae610fc5-22c8-43ed-93b6-a68c7f7b6344",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/37644b1d-4eaa-4755-8e95-1f548bb22176/main/1776151597512-i82vt8u337b.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "b2cd10a7-b2dc-42c5-ba56-7d473b8f27ab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/37644b1d-4eaa-4755-8e95-1f548bb22176/main/1776151597512-3f1cfgauahb.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6ead6d86-de16-4c68-bfeb-cde175c068cc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/37644b1d-4eaa-4755-8e95-1f548bb22176/main/1776151597511-xy9wz0ckdpc.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "936cf31a-7425-4e9e-be24-f9887e0a393a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/37644b1d-4eaa-4755-8e95-1f548bb22176/main/1776151597512-hjhc8f53i2.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -605,12 +699,19 @@
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
+                  },
+                  {
+                    "id": "898661f4-f029-49c8-bbc0-c229be779512",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ef753c17-ab90-40a8-bf72-df7280145c42/directions_hero/1776154501521-n8ij5m6emch.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
                   }
                 ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": " ",
+                "description": "🚆 가평역 (경춘선 / ITX-청춘)\n가평역 하차 후, 택시이동 약 20~25분\n\n🚌 가평시외버스터미널\n가평터미널 하차 후, 택시이동 약 20~25분\n\n"
               }
             }
           ]
@@ -619,10 +720,35 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "e5e88ea9-00f2-436d-b91c-2432d68a26d3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ef753c17-ab90-40a8-bf72-df7280145c42/main_hero/1776154446038-ehq930pyhu.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": " "
               },
-              "about": []
+              "about": [
+                {
+                  "title": "애견동반펜션",
+                  "images": [
+                    {
+                      "id": "47142549-20e0-48fd-949d-a59477c5e35c",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ef753c17-ab90-40a8-bf72-df7280145c42/main_about/1776154446039-z0zktk2o9g.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "5bba68b3-7f1f-46eb-bf47-0186a282c386"
+                    }
+                  ],
+                  "blockId": "5bba68b3-7f1f-46eb-bf47-0186a282c386",
+                  "description": "애견동반펜션 내용"
+                }
+              ]
             }
           ]
         },
@@ -633,7 +759,22 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "5e8d5d56-bc7a-46c3-ba16-84791c0eccd0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ef753c17-ab90-40a8-bf72-df7280145c42/reservation_hero/1776154295471-5hwnlyvybbb.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "5ea6eef9-11cf-46f6-9e32-a1274406d9a4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ef753c17-ab90-40a8-bf72-df7280145c42/reservation_hero/1776154295472-iizt9ip0w6e.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
                 "title": "",
