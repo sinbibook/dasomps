@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-04-14T08:20:48.558Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-04-14T08:25:28.201Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "2004ce5b-8e68-429d-8063-269d012eb69e",
     "homepageId": "ef753c17-ab90-40a8-bf72-df7280145c42"
@@ -747,6 +747,21 @@
                   ],
                   "blockId": "5bba68b3-7f1f-46eb-bf47-0186a282c386",
                   "description": "애견동반펜션 내용"
+                },
+                {
+                  "title": "바로 앞 계곡위치",
+                  "images": [
+                    {
+                      "id": "d83e5e97-d6f6-478f-8771-f083208beb0a",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ef753c17-ab90-40a8-bf72-df7280145c42/main_about/1776155108462-i73w6r3au5.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "228d5435-8b2f-4229-980b-8eaa5c9b09d4"
+                    }
+                  ],
+                  "blockId": "228d5435-8b2f-4229-980b-8eaa5c9b09d4",
+                  "description": "내용"
                 }
               ]
             }
