@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-04-15T04:10:57.806Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-04-16T08:26:16.820Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "2004ce5b-8e68-429d-8063-269d012eb69e",
     "homepageId": "ef753c17-ab90-40a8-bf72-df7280145c42"
@@ -625,7 +625,7 @@
                 ],
                 "videos": [],
                 "mediaType": "image",
-                "description": "문만 나서면 바로 계곡!"
+                "description": "Just a step outside, where the stream quietly flows"
               },
               "gallery": {
                 "title": "Preview",
