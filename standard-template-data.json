@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-05-18T05:31:01.020093171Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-05-29T09:57:20.535516568Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "2004ce5b-8e68-429d-8063-269d012eb69e",
     "homepageId": "ef753c17-ab90-40a8-bf72-df7280145c42"
@@ -493,6 +493,202 @@
         }
       ],
       "displayOrder": 2
+    },
+    {
+      "id": "32826de9-9c36-46b9-9ed7-d92471b191b5",
+      "name": "온새미로 (애견동반, 개별바베큐)",
+      "description": "",
+      "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "퀸 베드"
+      ],
+      "bedConfigs": [ ],
+      "amenities": [
+        "침대",
+        "무료 WiFi",
+        "스마트 TV",
+        "에어컨",
+        "냉장고",
+        "전자레인지",
+        "헤어드라이어",
+        "전기밥솥",
+        "전기포트",
+        "화장실",
+        "수건",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "개별바비큐"
+      ],
+      "roomViews": [
+        "마운틴뷰"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 3
+    },
+    {
+      "id": "4a7c96a8-00f5-493f-a1f2-ef820c5f5cc2",
+      "name": "꽃가람 (애견동반, 개별바베큐)",
+      "description": "",
+      "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "퀸 베드"
+      ],
+      "bedConfigs": [ ],
+      "amenities": [
+        "침대",
+        "무료 WiFi",
+        "스마트 TV",
+        "에어컨",
+        "냉장고",
+        "전자레인지",
+        "헤어드라이어",
+        "전기밥솥",
+        "전기포트",
+        "화장실",
+        "수건",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "개별바비큐"
+      ],
+      "roomViews": [
+        "마운틴뷰"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 4
+    },
+    {
+      "id": "72684978-ec9c-49c6-b541-068841d66a86",
+      "name": "그린나래 (스파, 애견동반, 개별바베큐)",
+      "description": "",
+      "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
+      "group": null,
+      "size": 3.31,
+      "baseOccupancy": 2,
+      "maxOccupancy": 6,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "퀸 베드"
+      ],
+      "bedConfigs": [ ],
+      "amenities": [
+        "침대",
+        "무료 WiFi",
+        "스마트 TV",
+        "에어컨",
+        "냉장고",
+        "전자레인지",
+        "헤어드라이어",
+        "전기밥솥",
+        "전기포트",
+        "화장실",
+        "스파",
+        "수건",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "개별바비큐"
+      ],
+      "roomViews": [
+        "마운틴뷰"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 6
     }
   ],
   "homepage": {
